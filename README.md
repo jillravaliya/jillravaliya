@@ -1,190 +1,258 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jill%20Ravaliya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Jill%20Ravaliya&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6AD3F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Jill+Ravaliya+%F0%9F%91%8B;DevOps+Engineer+%F0%9F%9A%80+%7C+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Automating+Everything+%F0%9F%A4%96+%7C+Building+Pipelines+%F0%9F%94%A7;Learning+Kubernetes+%26+Terraform+%F0%9F%93%9A;Open+to+DevOps+Internships+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+there!+%F0%9F%91%8B+I'm+passionate+about+DevOps;Automating+Infrastructure+%F0%9F%A4%96+Building+CI%2FCD+Pipelines+%F0%9F%94%A7;Learning+Kubernetes+%E2%9A%93+Terraform+%F0%9F%8C%8D+Multi-Cloud+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
-</div>
+<br>
 
-## 🚀 About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> About Me
 
-```typescript
-const jill = {
-    role: "DevOps Engineer 🔧",
-    location: "Building in the Cloud ☁️",
-    currentFocus: ["Kubernetes 🎯", "Terraform 🏗️", "Multi-Cloud ⚡"],
-    learning: ["Container Orchestration", "Infrastructure as Code", "CI/CD Automation"],
-    lookingFor: "DevOps Internship Opportunities 💼",
-    funFact: "I automate repetitive tasks before my morning coffee ☕",
-    motto: "Code. Deploy. Automate. Repeat. 🔁"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<br>
+
+```javascript
+const jillRavaliya = {
+    role: "DevOps Engineer",
+    code: ["Python", "Bash", "JavaScript"],
+    technologies: {
+        cloudPlatforms: ["AWS", "Azure"],
+        devOps: ["Docker", "Kubernetes", "Terraform", "Jenkins"],
+        operatingSystems: ["Linux"],
+        tools: ["Git", "GitHub", "VS Code", "Postman", "PowerShell"]
+    },
+    currentlyLearning: [
+        "Kubernetes Orchestration",
+        "Infrastructure as Code with Terraform",
+        "Multi-Cloud Deployment Strategies"
+    ],
+    focusOn: "Building scalable cloud infrastructure & CI/CD pipelines",
+    openTo: "DevOps Internship Opportunities",
+    motto: "Automate Everything, Deploy Fearlessly! 🚀"
 };
 ```
 
+<br>
+
+- 🔭 Currently working on **automating deployment pipelines** and **containerizing applications**
+- 🌱 Learning **Kubernetes**, **Terraform**, and **multi-cloud strategies**
+- 💼 Actively seeking **DevOps internship opportunities**
+- 🎯 Goal: Build end-to-end automated infrastructure solutions
+- 📫 Reach me: **jillahir9999@gmail.com**
+- 🌐 Portfolio: **[jillravaliya.github.io](https://jillravaliya.github.io)**
+
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 What I Do
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Tech Stack
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
-
-### 🔥 Infrastructure & Automation
-
-- 🏗️ Building scalable cloud infrastructure
-- 🤖 Automating deployment pipelines
-- 📦 Containerizing applications
-- 🔄 Implementing CI/CD workflows
-
-</td>
-<td width="50%">
-
-### 🎓 Currently Learning
-
-- ⚓ Kubernetes cluster management
-- 🌍 Multi-cloud strategies (AWS + Azure)
-- 📝 Infrastructure as Code with Terraform
-- 🔐 Security best practices in DevOps
-
-</td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+        <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+        <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+        <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
+    </td>
+</tr>
+<tr>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+        <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" width="48" height="48" alt="Jenkins" />
+        <br>Jenkins
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" width="48" height="48" alt="Terraform" />
+        <br>Terraform
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="48" height="48" alt="AWS" />
+        <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" width="48" height="48" alt="Azure" />
+        <br>Azure
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="48" height="48" alt="VS Code" />
+        <br>VS Code
+    </td>
+</tr>
+<tr>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" width="48" height="48" alt="Bash" />
+        <br>Bash
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" width="48" height="48" alt="IntelliJ" />
+        <br>Postman
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width="48" height="48" alt="Ubuntu" />
+        <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="48" height="48" alt="Windows" />
+        <br>PowerShell
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+        <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
+        <br>CI/CD
+    </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💻 Tech Stack & Tools
-
-<div align="center">
-
-### 🌐 Cloud Platforms
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=0078D4)
-
-### 🐳 DevOps & Containers
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=326CE5)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=7B42BC)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=D24939)
-
-### 💾 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=4EAA25)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
-
-### 🛠️ Tools & Platforms
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=5391FE)
-
 </div>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px" height="32px"> GitHub Analytics
+
+<br>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jillravaliya&show_icons=true&hide_border=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jillravaliya&hide_border=true&theme=radical" />
+</p>
+
+<br>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jillravaliya&layout=compact&hide_border=true&theme=radical&langs_count=10" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=jillravaliya&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+<br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jillravaliya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" alt="Jill's GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jillravaliya&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="Jill's Streak Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jillravaliya&theme=radical" width="97%"/>
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jillravaliya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=jillravaliya&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F8D866&hide_border=true" alt="Contribution Graph"/>
-</div>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
+<br>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32px" height="32px"> Learning Roadmap 2025
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jillravaliya&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+
+|Technology         |Progress                                        |Status       |
+|-------------------|------------------------------------------------|-------------|
+|**Kubernetes**     |![80%](https://progress-bar.dev/80?color=326CE5)|🔥 In Progress|
+|**Terraform**      |![65%](https://progress-bar.dev/65?color=7B42BC)|📚 Learning   |
+|**AWS**            |![75%](https://progress-bar.dev/75?color=FF9900)|⚡ Active     |
+|**Azure**          |![50%](https://progress-bar.dev/50?color=0078D4)|🌱 Growing    |
+|**CI/CD Pipelines**|![85%](https://progress-bar.dev/85?color=D24939)|✅ Strong     |
+|**Docker**         |![90%](https://progress-bar.dev/90?color=2496ED)|💪 Proficient |
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 Current Mission
+<br>
 
 <div align="center">
 
-```yaml
-🎓 Learning Path:
-  ├─ Kubernetes: ████████████░░░░░░░░ 60%
-  ├─ Terraform:  ██████████░░░░░░░░░░ 50%
-  ├─ AWS:        ███████████████░░░░░ 75%
-  ├─ Azure:      ████████░░░░░░░░░░░░ 40%
-  └─ CI/CD:      ████████████████░░░░ 80%
+### 🎯 2025 Goals
 
-📝 2025 Goals:
-  ✅ Master Kubernetes orchestration
-  ✅ Build 10+ DevOps projects
-  ✅ Secure DevOps internship
-  ✅ Contribute to open-source
-  ✅ Get AWS & K8s certified
+```diff
++ Master Kubernetes cluster management & orchestration
++ Build 15+ production-ready DevOps projects
++ Secure a challenging DevOps internship role
++ Contribute to 5+ open-source DevOps projects
++ Obtain AWS Solutions Architect & CKA certifications
++ Become proficient in multi-cloud infrastructure
 ```
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jillravaliya&repo=jillravaliya.github.io&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/jillravaliya/jillravaliya.github.io)
-
-</div>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤝 Let’s Connect!
+<br>
+
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="32px" height="32px"> Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jill-ravaliya-684a98264)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jillravaliya.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jillahir9999@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jillravaliya)
+<a href="https://www.linkedin.com/in/jill-ravaliya-684a98264" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://jillravaliya.github.io" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="mailto:jillahir9999@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://github.com/jillravaliya" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jillravaliya&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jillravaliya&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <div align="center">
 
-### 💭 Quote of the Day
+### ⚡ *“Automate Everything. Deploy Fearlessly. Scale Infinitely.”* ⚡
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-## 🐍 Watch My Contributions Get Eaten by a Snake!
-
-![Snake animation](https://raw.githubusercontent.com/jillravaliya/jillravaliya/output/github-contribution-grid-snake-dark.svg)
-
-### ⚡ “Automate Everything. Deploy Fearlessly. Scale Infinitely.” ⚡
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I’ll be happy to meet you more!</b> 😊</em>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
