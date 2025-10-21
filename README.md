@@ -1,101 +1,102 @@
-<!-- 🕶️ JILL RAVALIYA | Hacker Terminal DevOps README -->
+# Hi there, I’m Jill Ravaliya! 👋
 
-<!-- Animated Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=180&section=header&text=JILL%20RAVALIYA&fontSize=45&fontColor=00fff7&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Automation%20%7C%20Infrastructure%20as%20Code&descAlignY=58&descAlign=50&descSize=15" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&width=600&lines=DevOps+Engineer+%F0%9F%9A%80;Automation+%26+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Learning+Kubernetes+%26+Terraform+%F0%9F%93%9A;Building+CI%2FCD+Pipelines+%F0%9F%94%A7)](https://git.io/typing-svg)
+
+-----
+
+## 🚀 About Me
+
+I’m a passionate **DevOps Engineer** focused on **Automation**, **Cloud Infrastructure**, and **CI/CD Pipelines**. Currently diving deep into **Kubernetes**, **Terraform**, and multi-cloud deployment strategies. I believe in the power of **Infrastructure as Code (IaC)** and **Cloud Automation** to build scalable and reliable systems.
+
+- 🔭 I’m currently working on improving my DevOps skills and building practical projects
+- 🌱 I’m learning **Kubernetes orchestration** and **Terraform for multi-cloud**
+- 💼 Open to **DevOps internship opportunities**
+- 📫 Reach me at: **jillahir9999@gmail.com**
+- 🌐 Portfolio: [jillravaliya.github.io](https://jillravaliya.github.io)
+
+-----
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ☁️ DevOps & Cloud Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🧰 Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+-----
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jillravaliya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jill's GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jillravaliya&theme=tokyonight&hide_border=true" alt="Jill's Streak Stats" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jillravaliya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</div>
+
+-----
+
+## 🎯 Current Focus
+
+```yaml
+Learning:
+  - Kubernetes cluster management and orchestration
+  - Terraform for Infrastructure as Code
+  - Multi-cloud deployment strategies (AWS + Azure)
+  - Advanced CI/CD pipeline automation
+  
+Goals:
+  - Secure a DevOps internship
+  - Contribute to open-source DevOps projects
+  - Build end-to-end automated deployment pipelines
+  - Obtain AWS and Kubernetes certifications
+```
+
+-----
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/jill-ravaliya-684a98264" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:jillahir9999@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://jillravaliya.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+</a>
 </p>
 
-<!-- Typing Console Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FFF7&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Automation;Infrastructure+as+Code;Continuous+Delivery;Zero+Downtime+Deployments" />
-</p>
+-----
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jillravaliya&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>
 
-## About Me
+<div align="center">
 
-<!-- Simulated terminal typing -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00FFF7&center=true&vCenter=true&width=750&lines=$+whoami;Jill+Ravaliya+-+DevOps+Engineer;$+cat+mission.txt;Automate+everything+%7C+Build+reliable+clouds+%7C+Never+stop+learning;$+uptime;Currently+crafting+CI%2FCD+pipelines+and+cloud+automation..." />
-</p>
+### 💡 “Automate everything, monitor closely, deploy fearlessly!”
 
-<!-- Terminal-style output -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0c0c0c&height=140&section=header&text=%3E%20Initializing%20Profile...%20OK%0A%3E%20Loading%20Cloud%20Environment...%20AWS%2C%20Azure%20%0A%3E%20Deploying%20Containers...%20Docker%20%7C%20Kubernetes%20%0A%3E%20Running%20Infrastructure%20as%20Code...%20Terraform%0A%3E%20System%20Status%3A%20ACTIVE&fontSize=15&fontColor=00FFF7&animation=fadeIn&fontAlign=35&descAlign=60" />
-</p>
-
-<!-- Profile stats widget -->
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=jillravaliya&data=followers,repositories,stars,commits&theme=darkmode" />
-</p>
-
----
-
-## Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,js" height="45"/>
-</p>
-
----
-
-## DevOps & Cloud
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,terraform,jenkins,linux" height="45"/>
-</p>
-
----
-
-## Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,powershell" height="45"/>
-</p>
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jillravaliya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00fff7&text_color=ffffff" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jillravaliya&theme=tokyonight&hide_border=true&background=00000000&stroke=00fff7&ring=00fff7&fire=00fff7&currStreakLabel=00fff7" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jillravaliya&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00fff7&text_color=ffffff" height="165"/>
-</p>
-
----
-
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jillravaliya&theme=github-compact&hide_border=true&bg_color=000000&color=00fff7&line=00fff7&point=ffffff&area=true" />
-</p>
-
----
-
-## Connect
-
-<p align="center">
-  <a href="https://jillravaliya.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00fff7&labelColor=0d0d0d"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jill-ravaliya-684a98264">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00fff7&labelColor=0d0d0d"/>
-  </a>
-  <a href="mailto:jillahir9999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00fff7&labelColor=0d0d0d"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=00FFF7&center=true&vCenter=true&width=650&lines=The+best+way+to+predict+the+future+is+to+create+it."/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00fff7&height=90&section=footer"/>
-</p>
+</div>
