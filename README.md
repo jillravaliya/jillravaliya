@@ -14,16 +14,13 @@ I’m exploring DevOps and cloud engineering through hands-on labs and real proj
 
 <br>
 
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Tech Stack
 
 <br>
 
-<div align="center">
-  
-### Languages
-
-<div align="center">
+### Lauguage 
 
 <table>
 <tr>
@@ -42,17 +39,10 @@ I’m exploring DevOps and cloud engineering through hands-on labs and real proj
 </tr>
 <table>
 
-</div>
 
 <br>
 
----
-
-<div align="center">
-  
-### DevOps & Tools
-
-<div align="center">
+### Devops & Tools
 
 <table>
 <tr>
@@ -91,17 +81,9 @@ I’m exploring DevOps and cloud engineering through hands-on labs and real proj
 </tr>
 </table>
 
-</div>
-
 <br>
 
----
-
-<div align="center">
-
 ### Cloud Platforms
-
-<div align="center">
 
 <table>
 <tr>
@@ -118,7 +100,6 @@ I’m exploring DevOps and cloud engineering through hands-on labs and real proj
     </td>
   </tr>
 </table>
-</div>
 
 <br>
 
