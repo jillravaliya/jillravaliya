@@ -5,12 +5,12 @@
 
 <br>
 
-- Currently working on **automating deployment pipelines** and **containerizing applications**
-- Learning **Kubernetes**, **Terraform**, and **multi-cloud strategies**
-- Actively seeking **DevOps internship opportunities**
-- Goal: Build end-to-end automated infrastructure solutions
-- Reach me: **jillahir9999@gmail.com**
-- Portfolio: **[jillravaliya.github.io](https://jillravaliya.github.io)**
+I’m exploring DevOps and cloud engineering through hands-on labs and real projects, with a strong focus on how systems are built, deployed, and automated.
+
+- Currently working with: Linux, Docker, CI/CD workflows, basic Kubernetes deployments
+- Hands-on practice: Containerized apps, multi-container setups, deployment automation
+- Learning approach: Daily labs, experimentation, and documentation
+- Mindset: Learn by building, break things, fix them, repeat
 
 <br>
 
