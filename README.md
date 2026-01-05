@@ -33,9 +33,11 @@ I’m exploring DevOps and cloud engineering through hands-on labs and real proj
         <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" height="65" />
-        <br>C
-     </td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+        alt="C" width="65" height="65"/>
+    <br>C
+    </td>
+    </td>
     <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" width="48" height="48" alt="Bash" />
         <br>Bash
