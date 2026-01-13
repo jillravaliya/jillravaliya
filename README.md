@@ -2,23 +2,21 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E8B57&width=600&lines=Systems+Programming;Kernel+Development;Device+Drivers" alt="Typing SVG" />
 
-
-<a href="https://www.linkedin.com/in/jill-ravaliya-684a98264">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+<p align="left">
+<a href="https://www.linkedin.com/in/jill-ravaliya-684a98264" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="38" />
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://jillravaliya.github.io">
-  <img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="35" />
-</a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" height="38" />
+&nbsp;
 <a href="mailto:jillravaliya@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="38" />
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/jillravaliya">
-  <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" height="35" />
+&nbsp;
+<a href="https://github.com/jillravaliya" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="38" />
 </a>
-
+</p>
 
 ### Linux Kernel Development | Systems Programming | Device Drivers | Low-Level Architecture
 
