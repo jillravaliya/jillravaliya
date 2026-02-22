@@ -1,5 +1,5 @@
 
-## Hi, I'm Jil Ravaliya
+## Hi, I'm Jill Ravaliya
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E8B57&width=600&lines=Systems+Programming;Kernel+Development;Device+Drivers" alt="Typing SVG" />
 
