@@ -1,4 +1,6 @@
 
+<meta name="google-site-verification" content="GxJwKl8BnhAkA4-iJzwdHW-kZoFcgaBr8TFM43-MhIA" />
+
 ## Hi, I'm Jill Ravaliya
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E8B57&width=600&lines=Systems+Programming;Kernel+Development;Device+Drivers" alt="Typing SVG" />
@@ -118,5 +120,4 @@ I'm a Linux Kernel Enthusiast passionate about systems programming, low-level ar
 ---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2E8B57&width=600&lines=Learn+by+Building;Break+Things;Debug+%26+Fix;Repeat" alt="Typing SVG" />
-
 
