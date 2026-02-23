@@ -20,9 +20,11 @@
 </a>
 </p>
 
-### Linux Kernel Development | Systems Programming | Device Drivers | Low-Level Architecture
+### Linux kernel development through real bugs, real code, and real upstream reports.
 
----
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2E8B57&height=2&width=5000" />
+</p>
 
 I'm a Linux Kernel Enthusiast passionate about systems programming, low-level architecture, and building drivers that bridge hardware and software.
 
@@ -31,13 +33,13 @@ I'm a Linux Kernel Enthusiast passionate about systems programming, low-level ar
 * Learning Approach: Hands-on Labs, Reading Kernel Source, Testing on VMs, Documenting My Journey
 * Philosophy: "Break It, Debug It, Understand It, Fix It"
 
+
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> Tech Stack
+### Languages
 
-### Lauguage
 
-<table>
+<table cellspacing="0" cellpadding="0" border="0">
 <tr>
     <td align="center" width="120">
         <img src="./assets/c-icon.png" alt="C" width="65" height="65" />
@@ -54,11 +56,8 @@ I'm a Linux Kernel Enthusiast passionate about systems programming, low-level ar
 </tr>
 </table>
 
-<br>
-
-### Kernel & System Programming
-
-<table>
+### Environment & Platform
+<table cellspacing="0" cellpadding="0" border="0">
 <tr>
     <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="Linux" />
@@ -69,14 +68,6 @@ I'm a Linux Kernel Enthusiast passionate about systems programming, low-level ar
         <br><b>Ubuntu</b>
     </td>
     <td align="center" width="120">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="55" height="55" alt="Git" />
-        <br><b>Git</b>
-    </td>
-    <td align="center" width="120">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="65" height="65" />
-        <br><b>Github</b>
-    </td>
-    <td align="center" width="120">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" width="55" height="55" alt="GCC" />
         <br><b>GCC</b>
     </td>
@@ -85,38 +76,38 @@ I'm a Linux Kernel Enthusiast passionate about systems programming, low-level ar
         <br><b>Make</b>
     </td>
     <td align="center" width="120">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg" width="55" height="55" alt="Networking" />
-        <br><b>Networking</b>
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="55" height="55" alt="Git" />
+        <br><b>Git</b>
+    </td>
+    <td align="center" width="120">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="65" height="65" />
+        <br><b>Github</b>
+    </td>
+</tr>
+</table>
+
+### Areas of Work
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+    <td align="center" width="120">
+        <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" width="55" height="55" alt="Device Drivers" />
+        <br><b>Device Drivers</b>
+    </td>
+    <td align="center" width="120">
+        <img src="https://img.shields.io/badge/systemd-000000?style=for-the-badge&logo=linux&logoColor=white" height="55" alt="systemd" />
+        <br><b>systemd</b>
+    </td>
+    <td align="center" width="120">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Heckert_GNU_white.svg" width="55" height="55" alt="GNU Tools" />
+        <br><b>GNU Tools</b>
+    </td>
+    <td align="center" width="120">
+        <img src="https://img.shields.io/badge/Launchpad-F8C300?style=for-the-badge&logo=ubuntu&logoColor=black" height="55" alt="Launchpad" />
+        <br><b>Launchpad</b>
     </td>
 </tr>
 </table>
 
 <br>
 
-### Development Tools & Areas
-
-<table>
-<tr>
-    <td align="center" width="120">
-        <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" width="55" height="55" alt="Vim" />
-        <br><b>Vim/Neovim</b>
-    </td>
-    <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VSCode" />
-        <br><b>VSCode</b>
-    </td>
-    <td align="center" width="120">
-        <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" width="55" height="55" alt="Device Drivers" />
-        <br><b>Device Drivers</b>
-    </td>
-    <td align="center" width="120">
-        <img src="https://www.vectorlogo.zone/logos/gnu/gnu-icon.svg" width="55" height="55" alt="GNU Tools" />
-        <br><b>GNU Tools</b>
-    </td>
-</tr>
-</table>
-
 ---
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2E8B57&width=600&lines=Learn+by+Building;Break+Things;Debug+%26+Fix;Repeat" alt="Typing SVG" />
-
