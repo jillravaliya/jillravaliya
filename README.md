@@ -22,9 +22,7 @@
 
 ### Linux kernel development through real bugs, real code, and real upstream reports.
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2E8B57&height=2&width=5000" />
-</p>
+---
 
 I'm a Linux Kernel Enthusiast passionate about systems programming, low-level architecture, and building drivers that bridge hardware and software.
 
@@ -109,5 +107,3 @@ I'm a Linux Kernel Enthusiast passionate about systems programming, low-level ar
 </table>
 
 <br>
-
----
