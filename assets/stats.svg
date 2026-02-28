@@ -25,7 +25,7 @@
       letter-spacing="1"
       fill="#7FD97F"
       opacity="0">
-      355
+      357
       <animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.0s" fill="freeze"/>
     </text>
   </g>
