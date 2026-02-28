@@ -2,7 +2,11 @@
 ## Hi, I'm Jill Ravaliya
 <meta name="google-site-verification" content="GxJwKl8BnhAkA4-iJzwdHW-kZoFcgaBr8TFM43-MhIA" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E8B57&width=600&lines=Systems+Programming;Kernel+Development;Device+Drivers" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=100&color=2E8B57&width=800&lines=Systems+Programming;Kernel+Development;Device+Drivers" alt="Typing SVG" />
+
+<img src="./assets/stats.svg" alt="GitHub Stats" />
+
+<br>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jill-ravaliya-684a98264" target="_blank">
@@ -85,6 +89,7 @@ I'm a Linux Kernel Enthusiast passionate about systems programming, low-level ar
 </table>
 
 ### Areas of Work
+
 <table cellspacing="0" cellpadding="0" border="0">
 <tr>
     <td align="center" width="120">
@@ -102,7 +107,6 @@ I'm a Linux Kernel Enthusiast passionate about systems programming, low-level ar
     <td align="center" width="120">
         <img src="https://img.shields.io/badge/Launchpad-F8C300?style=for-the-badge&logo=ubuntu&logoColor=black" height="55" alt="Launchpad" />
         <br><b>Launchpad</b>
-    </td>
 </tr>
 </table>
 
