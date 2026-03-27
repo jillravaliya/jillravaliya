@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=100&color=2E8B57&center=true&width=800&lines=Systems+Programming;Kernel+Development;Device+Drivers" alt="Typing SVG" />
 </div>
 
-
 <p align="center">
 <a href="https://www.linkedin.com/in/jill-ravaliya-684a98264" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="38" />
@@ -22,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/Banner.png" alt="Banner" width="100%"/>
+  <img src="assets/Github Banner.png" alt="Banner" width="100%"/>
 </p>
 
 
