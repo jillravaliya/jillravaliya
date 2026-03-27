@@ -1,10 +1,11 @@
+<h1 align="center">Hey, I'm Jill Ravaliya </h1>
 
-## Hi, I'm Jill Ravaliya
-<meta name="google-site-verification" content="GxJwKl8BnhAkA4-iJzwdHW-kZoFcgaBr8TFM43-MhIA" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=100&color=2E8B57&center=true&width=800&lines=Systems+Programming;Kernel+Development;Device+Drivers" alt="Typing SVG" />
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=100&color=2E8B57&width=800&lines=Systems+Programming;Kernel+Development;Device+Drivers" alt="Typing SVG" />
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/jill-ravaliya-684a98264" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="38" />
 </a>
@@ -20,7 +21,10 @@
 </a>
 </p>
 
-### Linux kernel development through bugs, code, and upstream reports.
+<p align="center">
+  <img src="assets/Banner.png" alt="Banner" width="100%"/>
+</p>
+
 
 ---
 
@@ -107,3 +111,6 @@ I'm a Linux Kernel Enthusiast passionate about systems programming, low-level ar
 </table>
 
 <br>
+
+<meta name="google-site-verification" content="GxJwKl8BnhAkA4-iJzwdHW-kZoFcgaBr8TFM43-MhIA" />
+
