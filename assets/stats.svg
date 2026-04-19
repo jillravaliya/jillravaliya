@@ -19,7 +19,7 @@
   </text>
 
   <text x="14" y="103" font-family="'Arial Black','Arial Bold',Arial,sans-serif" font-size="44" font-weight="900" letter-spacing="3" fill="#7FD97F" opacity="0">
-    595
+    596
     <animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.0s" fill="freeze"/>
   </text>
 
